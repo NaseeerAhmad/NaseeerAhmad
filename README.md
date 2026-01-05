@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NaseeerAhmad
 - 👀 I’m interested in Web based trends
-- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me naseerahmad.shinwari@gmail.com
 
